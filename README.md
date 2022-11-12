@@ -1,1 +1,0 @@
-# Mgical_cpp
